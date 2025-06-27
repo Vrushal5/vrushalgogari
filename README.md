@@ -1,62 +1,84 @@
-<h1 align="center">Hi 👋, I'm Vrushal Gogari</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC Analyst in Progress | Python Scripter | SIEM & Threat Hunter</h3>
+<!-- GitHub Profile README for Vrushal Gogari -->
+<h1 align="center">🛡️ Vrushal Gogari</h1>
+<h3 align="center">Cybersecurity Analyst | SOC Trainee | Threat Hunter-in-Training</h3>
 
 ---
 
-- 👨‍💻 I’m currently building my career in **Cybersecurity & Threat Detection**
-- 🌱 I’m learning & practicing tools like **Splunk, Nessus, Wireshark, Burp Suite**
-- 🔭 Hands-on in **Incident Response, Vulnerability Scanning, SIEM Analysis**
-- 🧠 Working toward **CompTIA Security+ & real-world SOC workflows**
-- 📫 Reach me at: **vrushalgogari97@gmail.com**
-- 🌐 Portfolio / Resume: [Coming Soon]
+🚀 Passionate about protecting systems, uncovering threats, and staying three steps ahead in the cybersecurity battlefield.  
+📍 Currently training in real-world incident response, SIEM, and network monitoring.  
+🎯 Focused on building expertise in SOC operations and security automation.
 
 ---
 
-### 🛠️ Tech Stack & Security Tools
+## 🔍 About Me
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Kali](https://img.shields.io/badge/Kali-Blue?style=for-the-badge&logo=kalilinux)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-![Nessus](https://img.shields.io/badge/Nessus-29ABE2?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
-
----
-
-### 📂 Featured Projects
-
-#### 🛡️ Vulnerability Assessment Toolkit
-> Tools: **Nessus, OpenVAS, Nmap, Python**  
-Scan → Report → Patch  
-🔗 [View Repo](https://github.com/yourusername/vuln-assessment-lab)
-
-#### 👁️‍🗨️ SIEM Detection Use Cases
-> Splunk detections for brute force, DNS tunneling & beaconing  
-🔗 [View Repo](https://github.com/yourusername/splunk-detection-lab)
-
-#### 🐍 Cybersec Python Scripts
-> A collection of custom tools: port scanner, password checker, file hasher  
-🔗 [View Repo](https://github.com/yourusername/cybersec-tools)
-
-#### 📜 Incident Response Kit
-> Templates, SOPs, Playbooks based on **NIST Framework**  
-🔗 [View Repo](https://github.com/yourusername/incident-response-kit)
+- 🎓 Graduate in Computer Engineering & Cybersecurity  
+- 📚 Currently sharpening skills in:  
+  - Threat detection  
+  - Vulnerability scanning  
+  - Log analysis & incident response  
+- 🔧 Tools I’m working with daily:
+  - Splunk, Nessus, Wireshark, Burp Suite, Nmap, Kali Linux  
+- 🧪 Hands-on labs, write-ups, and self-built detection rules in progress  
+- 🛠️ Building a personal knowledge base of Python scripts for automation
 
 ---
 
-### 📈 GitHub Stats
+## 📁 Highlight Projects
 
-![Vrushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-### 💬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=gmail)](mailto:vrushalgogari97@gmail.com)
+### 🛡️ SOC Lab: Splunk Detection Use Cases
+Hands-on detection of brute force, failed logins, DNS exfiltration, and lateral movement indicators.  
+Includes saved searches, alert configs, and detection logic.  
+📌 [View Repo](https://github.com/yourusername/splunk-usecases)
 
 ---
 
-_“Security isn’t just a job. It’s a responsibility.”_ 🔐
-# vrushalgogari
+### 🔍 Vulnerability Assessment & Reporting Toolkit
+Nmap + Nessus + remediation documentation workflow.  
+Well-documented reports for Linux, Windows, and Web App scans.  
+📌 [View Repo](https://github.com/yourusername/vuln-assessment-lab)
+
+---
+
+### 🐍 CyberSec Python Scripts
+Small but powerful scripts for hash checking, port scanning, password strength testing, and log parsing.  
+📌 [View Repo](https://github.com/yourusername/cybersec-tools)
+
+---
+
+### 📑 Incident Response Playbooks
+Step-by-step response guides for malware outbreaks, phishing, brute force, and insider threats based on NIST CSF.  
+📌 [View Repo](https://github.com/yourusername/incident-response-kit)
+
+---
+
+## 🧠 Tools & Technologies
+
+| Domain | Tools |
+|--------|-------|
+| 🔐 SIEM & Detection | Splunk, Wazuh, Sigma Rules |
+| 🕵️ Vulnerability Scanning | Nessus, OpenVAS, Nikto |
+| 🧪 Offensive Tools | Nmap, Hydra, Burp Suite |
+| 📡 Network Analysis | Wireshark, Tcpdump |
+| 🧰 Scripting | Python, Bash |
+| 💻 OS | Kali, Ubuntu, Windows 11 |
+
+---
+
+## 📊 GitHub Stats
+
+![Vrushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![Email](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail)](mailto:vrushalgogari97@gmail.com)
+
+---
+
+> _"Every log has a story. Every alert has a pattern. Every breach has a lesson."_  
+
+🌐 **Actively learning. Always hunting. Never resting.**
